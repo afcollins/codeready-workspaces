@@ -15,7 +15,7 @@
         }
       },
       "recipe": {
-        "location": "quay.io/crw/stacks-cpp:1.0-8",
+        "location": "quay.io/crw/stacks-cpp:1.0-9",
         "type": "dockerimage"
       }
     }

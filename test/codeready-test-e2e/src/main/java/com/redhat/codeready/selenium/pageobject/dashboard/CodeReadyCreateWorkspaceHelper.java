@@ -48,10 +48,10 @@ public class CodeReadyCreateWorkspaceHelper {
         {
           put(
               "registry.access.redhat.com/codeready-workspaces/stacks-java",
-              "quay.io/crw/stacks-java:1.0-16");
+              "quay.io/crw/stacks-java:1.0-17");
           put(
               "registry.access.redhat.com/codeready-workspaces/stacks-cpp",
-              "quay.io/crw/stacks-cpp:1.0-8");
+              "quay.io/crw/stacks-cpp:1.0-9");
           put(
               "registry.access.redhat.com/codeready-workspaces/stacks-dotnet",
               "quay.io/crw/stacks-dotnet:1.0-10");
